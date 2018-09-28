@@ -1,6 +1,6 @@
 {
   "name": "@ndustrial/stylelint-config-ndustrial",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A stylelint configuration for ndustrial.io web applications.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ndustrialio/stylelint-config-ndustrial#readme",
   "dependencies": {
-    "stylelint": "^8.3.1",
+    "stylelint": "^9.6.0",
     "stylelint-declaration-use-variable": "^1.6.0",
     "stylelint-scss": "^2.2.0"
   }

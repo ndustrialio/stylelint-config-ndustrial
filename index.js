@@ -52,7 +52,8 @@ module.exports = {
       "ms", "s",
       "Hz", "kHz",
       "dpi", "dpcm", "dppx",
-      "%"
+      "%",
+      "fr"
     ]
   }
 };
